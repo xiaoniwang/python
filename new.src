@@ -1,6 +1,3 @@
 print "This is new src"
-<<<<<<< HEAD
-print "but fixed"
-=======
-print "This is on dev"
->>>>>>> dev
+print "bug fixed"
+print "ignore this filed"
